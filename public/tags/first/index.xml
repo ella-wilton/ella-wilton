@@ -9,6 +9,16 @@
     <copyright>© 2024 Ella Wilton</copyright>
     <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Meep</title>
+      <link>http://localhost:1313/about-me/meep/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about-me/meep/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+    <item>
       <title>My First Blog Post</title>
       <link>http://localhost:1313/about-me/about-me/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>

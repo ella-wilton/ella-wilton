@@ -15,6 +15,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/about-me/meep/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/about-me/about-me/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
