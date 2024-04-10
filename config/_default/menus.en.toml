@@ -15,13 +15,15 @@ weight = 9999
 
 [[main]]
 name = "Projects"
-pageRef = "projects"
+pre = "github"
+url = "https://github.com/ella-wilton"
 identifier = "Da2wSk089V"
 weight = 9999
 
 [[main]]
 name = "Photography"
-pageRef = "photography"
+pre = "image"
+url = "https://ejphotography80.mypixieset.com/"
 identifier = "aIxl2kJjSC"
 weight = 9999
 
