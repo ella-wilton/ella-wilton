@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Blowfish!"
-description: "This is a demo of adding content to the homepage."
+title: "Homepage"
 ---
 Software Developer | Support Coordinator | Photographer
+
+This website is a WIP

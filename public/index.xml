@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Blowfish! on Ella Wilton</title>
+    <title>Homepage on Ella Wilton</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Blowfish! on Ella Wilton</description>
+    <description>Recent content in Homepage on Ella Wilton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Ella Wilton</copyright>
@@ -24,7 +24,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/experience/</guid>
-      <description>When life gives you lemons, make lemonade.</description>
+      <description>Education #Bachelor of Information Sciences #With a major in Software Engineering</description>
+      
+    </item>
+    
+    <item>
+      <title>Personal Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>ella-wilton/ella-wiltonAbout me / CV websiteHTML 00</description>
       
     </item>
     

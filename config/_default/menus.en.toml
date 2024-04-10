@@ -16,7 +16,7 @@ weight = 9999
 [[main]]
 name = "Projects"
 pre = "github"
-url = "https://github.com/ella-wilton"
+pageRef = "projects"
 identifier = "Da2wSk089V"
 weight = 9999
 

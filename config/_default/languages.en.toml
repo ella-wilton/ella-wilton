@@ -11,6 +11,6 @@ dateFormat = "2 January 2006"
 
 [author]
 name = "Ella Wilton"
-bio = "Bio goes here"
+image = "images/profilepic.png"
 links = [ { github = "https://github.com/ella-wilton" }, { instagram = "https://www.instagram.com/ellajwilton" }, { linkedin = "https://www.linkedin.com/in/ella-wilton/" } ]
 

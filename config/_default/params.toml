@@ -17,11 +17,11 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
+homepageImage = "images/beach_long.jpg"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
-showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
