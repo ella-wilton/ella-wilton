@@ -1,6 +1,4 @@
 ## My Site - Ella Wilton
-![example workflow](https://github.com/ella-wilton/ella-wilton/actions/workflows/gh-pages/badge.svg)
-![example workflow](https://github.com/github/docs/actions/workflows/gh-pages/badge.svg)
 
 [Site is live here](https://ella-wilton.github.io/ella-wilton/)
 
