@@ -23,7 +23,7 @@ weight = 9999
 [[main]]
 name = "Photography"
 pre = "image"
-url = "https://ejphotography80.mypixieset.com/"
+pageRef = "photography"
 identifier = "aIxl2kJjSC"
 weight = 9999
 

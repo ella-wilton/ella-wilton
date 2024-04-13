@@ -14,7 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about-me/</guid>
-      <description>About Me #Get in touch</description>
+      <description>About Me #Who am I?</description>
       
     </item>
     
@@ -34,7 +34,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/</guid>
-      <description>ella-wilton/ella-wiltonAbout me / CV websiteHTML 00</description>
+      <description>Some of my recent projects on GitHub #ella-wilton/ella-wiltonAbout me / CV websiteHTML 00</description>
+      
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://localhost:1313/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/photography/</guid>
+      <description>EJ Photography #Outside of working full time, I have been successfully running my own photography business for over 4 years now.</description>
       
     </item>
     
