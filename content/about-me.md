@@ -17,6 +17,12 @@ More of my photography work can be seen <a href="https://ejphotography80.mypixie
 
 My other hobbies include weightlifting and reading, and I have recently started trying my hand at running also.
 
+### My gym playlist
+
+{{< spotify type="playlist" id="52T4PKuHLbotQWAskL0cm1" >}}
+
+</br>
+
 {{< button href="mailto:ellajwilton@gmail.com" target="_self" >}}
 Get in touch
 {{< /button >}}
