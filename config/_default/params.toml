@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "slate"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
@@ -7,7 +7,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 
 [header]
-layout = "basic"
+layout = "fixed"
 
 [footer]
 showMenu = true

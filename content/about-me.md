@@ -2,7 +2,6 @@
 title: "About Me"
 layout: "simple"
 ---
-## About Me
 
 ### Who am I?
 
@@ -18,6 +17,6 @@ More of my photography work can be seen <a href="https://ejphotography80.mypixie
 
 My other hobbies include weightlifting and reading, and I have recently started trying my hand at running also.
 
-{{< button href="#button" target="_self" >}}
+{{< button href="mailto:ellajwilton@gmail.com" target="_self" >}}
 Get in touch
 {{< /button >}}
